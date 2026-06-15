@@ -164,7 +164,6 @@ java -jar commandes-0.0.1-SNAPSHOT.jar
 $env:SPRING_PROFILES_ACTIVE="prod"
 $env:DB_URL="jdbc:mysql://localhost:3306/gestion_commande"
 $env:DB_USERNAME="root"
-$env:DB_PASSWORD=""
 $env:SERVER_PORT="8080"
 
 java -jar commandes-0.0.1-SNAPSHOT.jar
